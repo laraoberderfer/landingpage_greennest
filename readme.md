@@ -12,3 +12,5 @@ O site está publicado no GitHub Pages:
 **https://laraoberderfer.github.io/greennest/**
 
 ## 📁 Estrutura do projeto
+-- index.html
+-- estilo.css
