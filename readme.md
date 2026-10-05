@@ -9,7 +9,7 @@ com HTML5 e CSS3, sem frameworks e sem JavaScript.
 ## 🚀 Demonstração
 
 O site está publicado no GitHub Pages:
-**https://laraoberderfer.github.io/greennest/**
+**[https://laraoberderfer.github.io/greennest/](https://laraoberderfer.github.io/landingpage_greennest/)**
 
 ## 📁 Estrutura do projeto
 -- index.html
