@@ -14,3 +14,4 @@ O site está publicado no GitHub Pages:
 ## 📁 Estrutura do projeto
 -- index.html
 -- estilo.css
+-- readme.md
